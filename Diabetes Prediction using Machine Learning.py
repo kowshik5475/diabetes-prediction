@@ -4,7 +4,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 # Load dataset
-data = pd.read_csv(r"diabetes-prediction/blob/main/pima-indians-diabetes.csv", header=None)
+data = pd.read_csv(r"path/to/your/pima-indians-diabetes.csv", header=None)
 data.columns = [
     "Pregnancies", "Glucose", "BloodPressure", "SkinThickness",
     "Insulin", "BMI", "DiabetesPedigreeFunction", "Age", "Outcome"
