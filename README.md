@@ -20,4 +20,4 @@ Logistic Regression
 Accuracy: ~75%
 
 ## 👨‍💻 Author
-Your Name
+Dhuli Venkata sai kowshik
